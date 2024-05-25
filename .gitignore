@@ -18,5 +18,6 @@ Thumbs.db
 .LSOverride
 Desktop.ini
 
+public
 .hugo_build.lock
 resources

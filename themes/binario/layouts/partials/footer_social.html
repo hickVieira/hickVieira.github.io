@@ -1,0 +1,9 @@
+{{- if .Site.Params.social }}
+<div class="footer__social social">
+	{{ range .Site.Params.social }}
+		<a class="social__link" target="_blank" rel="noopener noreferrer" href="{{ .href | safeURL }}">
+			<i class="{{ .fa_icon }}"></i>
+		</a>
+	{{ end }}
+</div>
+{{- end }}

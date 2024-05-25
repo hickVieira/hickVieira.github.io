@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on hickv&#39;s blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on hickv&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LinkedIn Tips and Tricks for Software Engineers</title>
+      <link>/posts/linkedisney/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/linkedisney/</guid>
+      <description>Intro These are some annotations I have been making recently regarding getting a job in this economy. Most of the info here comes from random youtubers and blog articles I have been consuming.
+So, nothing of what is being said here should be taken as facts at all. It is all rocket science, experimentation, intuition etc.
+I do not like LinkedIn at all, the amount of corporate bullshit that goes on there makes me dead sick.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>Hey, first ever post here. Starting out with Hugo and Binario theme. Working nice so far, might change to a more custom theme later. I plan to write about programming stuff, mostly gamedev related. We&amp;rsquo;ll see&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

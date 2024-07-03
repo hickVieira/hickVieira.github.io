@@ -1,25 +1,7 @@
 ---
-title: "LinkedIn Tips and Tricks for Software Engineers"
+title: "Linkdisney"
 date: "2024-05-24"
-lastmod: "2024-05-24"
-
-comments: true # Enable/disable Disqus comments for specific page
-authorbox: true # Enable/disable Authorbox for specific page
-toc: true # Enable/disable Table of Contents for specific page
-tocOpen: true # Open Table of Contents block for specific page
-mathjax: true # Enable/disable MathJax for specific page
-related: true # Enable/disable Related content for specific page
-meta:
-  - date
-  - categories
-  - tags
-
-# featured:
-#   url: image.jpg # relative path of the image
-#   alt: A scale model of the Eiffel tower # alternate text for the image
-#   caption: Eiffel tower model # image caption
-#   credit: Unknown author # image credit
-#   previewOnly: false # show only preview image (true/false)
+slug: a-quick-note
 ---
 
 ## Intro
@@ -33,10 +15,10 @@ But if you are mid to senior, and you use it properly, then you are in jobs heav
 
 Also, english is not my first language.
 
-## The Great Underestimation of Networking
+## Rant
 Networking, reach, and friends are the most important things that assist you getting a job (always has been, you just got lied to).
 
-It doesn't matter if you are the CEO of the latest javascript framework, if nobody knows you, and you know nobody, then you won't get a job my friend.
+It doesn't matter if you are the CEO of the latest javascript framework, if nobody knows you, and you know nobody, then you won't get a job.
 
 If I were to rank skills a developer should have to be a sucessfull person in real life, I would put soft-skills and networking way above any hard-skills.
 
@@ -46,7 +28,7 @@ This is where the facebook of jobs social media site called ~~LinkeDisney~~ Link
 
 And that is not even close to an exageration... It is a **known fact** in "LinkedIn hack communities" that *technical posts* **do not generate views**... you literally have to produce click-bait social-media-level gibberish content to get attention there, that is how you get *rewarded*.
 
-And we are about to become one. You want a job right? they you can't ecape this, sorry bro.
+And we are about to become one. You want a job right? then you can't ecape this, sorry bro.
 
 But anyways - we can't escape it just like we can't escape the big ass black hole at the center of the galaxy.
 
@@ -69,7 +51,7 @@ Make sure you are logged in and go to [linkedin.com/sales/ssi](https://www.linke
 
 The **higher** your social selling index is, the less likely you are to be found by a recruiter. 
 
-You can decrease you ssi by creating more content juice for the heartless crawler bots that rank us, like animals in a slaughterhouse.
+You can decrease you ssi by creating more content juice for the heartless crawler bots that rank us.
 
 ### Your profile is almost everything
 1. LinkedIn search algo indexes you by **keywords** present in your profile page
@@ -139,17 +121,18 @@ Theses are just some ideas to grow your network:
 ### Post template
 It should contain:
 1. Title
-    - can be click bait
-    - hide the content by entering blank space
+    - should be click bait
+    - hide the real content by entering blank space
 2. Content
     - make it short and to the point
     - give value to reader
-    - or just post memes and garbage, somewhat works
+    - or just post memes and garbage, somewhat works too
 3. Hashtags
     - be precise
     - don't overuse
 4. Image
-    - horizontals photos are bad
+    - must exist
+    - horizontal photos are bad
 
 ### What if I am a junior and/or migrating careers?
 Experience is what they care about the most, because it validates you can do the stuff. If you have none, then go get it somehow.

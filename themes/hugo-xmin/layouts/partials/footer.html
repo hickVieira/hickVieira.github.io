@@ -1,0 +1,18 @@
+<footer>
+  <hr />
+  {{ range .Site.Params.socials }}
+  <a class="social-link" target="_blank" rel="noopener noreferrer" href="{{ .href | safeURL }}">
+    <i class="{{ .fa_icon }}"></i>
+  </a>
+  {{ end }}
+  <br />
+  © {{ now.Format "2006" }} {{ .Site.Params.copyright | default .Site.Title }}
+  <br />
+  Last update on {{ (now.Format "2006-01-02") | time.Format "2006-01-02" }}
+  <br />
+  Powered by <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a
+    href="https://github.com/yihui/hugo-xmin" rel="nofollow noopener" target="_blank">XMin</a> theme.
+</footer>
+</body>
+
+</html>

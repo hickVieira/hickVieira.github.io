@@ -1,7 +1,6 @@
 ---
-title: "Linkdisney"
+title: "Linkedisney"
 date: "2024-05-24"
-slug: a-quick-note
 ---
 
 ## Intro
